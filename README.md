@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vitor Hugo.<br><br>- 🔭 I'm currently pursuing a degree in Computer Engineering at Senai Cimatec University.<br>- 🌱 I'm interning in the automation field at Senai Cimatec.<br>- ⚡ In my free time, I enjoy exploring new technologies and working on personal projects.</p>
+<p align="left">My name is Vitor Hugo.<br><br>- 🇧🇷 Brazilian from Salvador, BA.<br><br>- 🔭 I'm currently pursuing a degree in Computer Engineering at Senai Cimatec University.<br>- 🌱 I'm interning in the automation field at Senai Cimatec.<br>- ⚡ In my free time, I enjoy exploring new technologies and working on personal projects.</p>
 
 ###
 
