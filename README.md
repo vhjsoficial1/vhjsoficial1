@@ -34,7 +34,7 @@
 
 ###
 
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhjsoficial1&show_icons=true&theme=radical)
+![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhjsoficial1&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000)
 
 
 
